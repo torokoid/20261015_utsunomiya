@@ -283,7 +283,9 @@ p.note { display: none; }
 <a href="20261015_00014.jpeg" target="_blank"><img src="20261015_00014.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">雲の流れが速い秋空</span></h2>
-<a href="IMG_3726.MOV" target="_blank"><img src="IMG_3726.MOV" alt="サンプル画像" class="responsive-media"></a>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6Q0o5dyTbo?si=QetxrrZQSOR7I3mH&autoplay=1&mute=1&loop=1&playlist=r6Q0o5dyTbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 <h2><span class="yellow">雲が流れて青空が広がりました</span></h2>
 <a href="20261015_00017.jpeg" target="_blank"><img src="20261015_00017.jpeg" alt="サンプル画像" class="responsive-media"></a>
